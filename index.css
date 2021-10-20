@@ -6,7 +6,7 @@ body{
 /*--- header css-- */
 #header{
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url(https://user-images.githubusercontent.com/74665369/138113522-e40924d5-192e-44af-8252-25623b086702.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url('https://user-images.githubusercontent.com/74665369/138113522-e40924d5-192e-44af-8252-25623b086702.jpg');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
